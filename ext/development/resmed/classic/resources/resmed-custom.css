@@ -1,0 +1,165 @@
+.x-tab.x-tab-active.x-tab-default .x-tab-inner-default {
+    color: #000000;
+}
+.x-panel-header-title-default-framed {
+    color: #000000;
+}
+.x-panel-header-default-framed-top {
+	background-color: #d4d4d4;
+}
+.x-panel-default-framed {
+ 	border-color: #d4d4d4;
+}
+.x-panel-header-default-framed {
+    font-size: 13px;
+    border: 5px solid #d4d4d4;
+}
+
+.saveLayout{background-image: url("../resources/images/DMS-Save-big.png") !important;}
+.resetSort{background-image: url("../images/icon-reset-sort.png") !important;}
+.EIPP-Pay-Bills-big {background-image: url("../resources/images/EIPP-Pay-Bills-big.png") !important;}
+.pay-by-ach {background-image: url("../resources/images/pay-by-ach.png") !important;}
+.pay-by-credit-card {background-image: url("../resources/images/pay-by-credit-card.png") !important;}
+.EIPP-Cancel-big {background-image: url("../resources/images/EIPP-Cancel-big.png") !important;}
+
+.EIPP-Statements-big{background-image: url("../../../../../../images/blackIcons/Statement.png") !important;}
+.EIPP-Add-Users-big{background-image: url("../../../../../../images/blackIcons/Add-User.png") !important;}
+.EIPP-Edit-Users-big{background-image: url("../../../../../../images/blackIcons/Edit-User.png") !important;}
+.EIPP-Select-Deselect-All-big{background-image: url("../../../../../../images/blackIcons/Select.png") !important;}
+.EIPP-View-Details-big{background-image: url("../../../../../../images/blackIcons/View-Details.png") !important;}
+.EIPP-Download-Statement-big{background-image: url("../../../../../../images/blackIcons/Download.png") !important;}
+.EIPP-Fax-Statement-big{background-image: url("../../../../../../images/blackIcons/EIPP-Fax-big.png") !important;}
+.EIPP-Fax-Invoices-big{background-image: url("../../../../../../images/blackIcons/EIPP-Fax-big.png") !important;}
+
+.EIPP-Disputes-big{background-image: url("../../../../../../images/blackIcons/EIPP-Disputes.png") !important;}
+.EIPP-Autopay-big{background-image: url("../../../../../../images/blackIcons/EIPP_Auto-Pay.png") !important;}
+.EIPP-Pay-Offline-big{background-image: url("../../../../../../images/blackIcons/pay-ofline.png") !important;}
+.EIPP-Bulk-Payments-big{background-image: url("../../../../../../images/blackIcons/EIPP-Bulk-Payments.png") !important;}
+.EIPP-Preview-Bills-big{background-image: url("../../../../../../images/blackIcons/EIPP-Preview-big_Black.png") !important;}
+.EIPP-Invoices-big{background-image: url("../../../../../../images/blackIcons/EIPP-Preview-big_Black.png") !important;}
+.EIPP-Pay-On-Account-big{background-image: url("../../../../../../images/blackIcons/EIPP-Pay-On-Account.png") !important;}
+.EIPP-Delete-big {background-image: url("../../../../../../images/blackIcons/EIPP-Delete-big.png") !important;background-repeat: no-repeat !important;}
+.EIPP-Payment-Instructions-big{
+	background-image: url("../images/EIPP-Payment-Instructions.png") !important;
+	background-repeat: no-repeat !important;
+	margin: 1.6px 10px 0px 3px !important;
+	width:17px !important;
+	opacity:1 !important;
+	height:17px !important;
+}
+.EIPP-Home-Page-Info{
+	background-image: url("../images/triton/EIPP/EIPP-Home-Page-Info.png") !important;
+	background-repeat: no-repeat !important;
+	opacity:1 !important;
+}
+.msg {
+    color:#fff;
+	border: 1px solid #e8e8e8;
+	padding-left:5px;
+	padding-bottom:10px;
+	margin:10px;
+	margin-left:0px;
+	border-radius:5px;
+	font-size: 12px !important;
+	line-height:14px !important;
+	background: -moz-linear-gradient(45deg, #D3D3D3 0%, #D3D3D3 48%, #808080 100%); /* ff3.6+ */
+	background: -webkit-gradient(linear, left bottom, right top, color-stop(0%, #D3D3D3), color-stop(48%, #D3D3D3), color-stop(100%, #808080)); /* safari4+,chrome */
+	background: -webkit-linear-gradient(45deg, #D3D3D3 0%, #D3D3D3 48%, #808080 100%); /* safari5.1+,chrome10+ */
+	background: -o-linear-gradient(45deg, #D3D3D3 0%, #D3D3D3 48%, #808080 100%); /* opera 11.10+ */
+	background: -ms-linear-gradient(45deg, #D3D3D3 0%, #D3D3D3 48%, #808080 100%); /* ie10+ */
+	background: linear-gradient(45deg, #D3D3D3 0%, #D3D3D3 48%, #808080 100%); /* w3c */
+}
+.existingCard{
+	
+	margin-right: 5px;
+	margin-left: 15px;
+	
+}
+
+.cardCombo{
+	margin-top: 4px;
+}
+
+.button-without-text .x-btn-text.x-btn-icon-left > .x-btn-icon-el-default-toolbar-small {
+    margin-right: 0px;
+}
+
+.button-without-text .x-btn-inner-default-toolbar-small {
+    font: 400 12px/16px 'Open Sans', 'Helvetica Neue', helvetica, arial, verdana, sans-serif; 
+    color: #606060; 
+    padding: 0 0px; 
+    display: none !important;
+}
+
+.hamburger {
+	 width: calc(100% - 30px);!important;
+}
+.hamburger > .x-box-menu-after {
+    position: absolute !important;
+    float: left !important;
+}
+
+.hamburger2 {
+	width: calc(100% - 30px);!important;
+}
+.hamburger2 > .x-box-menu-after{
+	position: absolute !important;
+	float: left !important;
+	margin-top: 6px !important;
+	margin-right: 30px !important;
+}
+
+/* .hamburger38 { */
+/* 	 width: calc(100% - 30px);!important; */
+/* } */
+
+/* .hamburger38>.x-box-menu-after { */
+/* 	position: absolute !important; */
+/* 	float: left !important; */
+/* 	margin-top: 38px !important; */
+/* } */
+
+.hamburger38 {
+ width: calc(100% - 27px) !important;
+}
+
+.hamburger38>.x-box-menu-after {
+ position: absolute !important;
+ float: right !important;
+ top: inherit !important;
+}
+
+.hamburger6 {
+	width: calc(100% - 30px);!important;
+}
+
+.hamburger6>.x-box-menu-after {
+	position: absolute !important;
+	float: left !important;
+	margin-top: 6px !important;
+}
+
+
+.hamburger6oca {
+ width:100%;
+ position: inherit;
+}
+.hamburger6oca > div{
+  width: calc(100% - 40px) !important;
+}
+
+.hamburger6oca>.x-box-menu-after {
+	position: absolute !important;
+	float: right !important;
+   	margin-top: 6px !important;
+}
+
+.landscape {
+	height: 50px;
+}
+
+img {
+	max-width: 100%;
+	max-height: 100%;
+}
+

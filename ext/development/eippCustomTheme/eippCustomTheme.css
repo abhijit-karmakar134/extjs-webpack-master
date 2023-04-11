@@ -1,0 +1,38 @@
+.x-tab-inner-default {
+	font-weight: bold;
+	color: #ffffff;
+	font-size: 13px;
+}
+
+.x-grid-cell-inner {
+	padding: 2px 10px 2px 3px !important;
+}
+
+.x-btn-inner-default-toolbar-small {
+	font: 400 12.5px/16px 'Open Sans', 'Helvetica Neue', helvetica, arial,
+		verdana, sans-serif;
+	color: #606060;
+	padding: 0 5px;
+	max-width: 100%;
+}
+
+.x-grid-item {
+    color: #000000;
+    font: 400 13px/19px 'Open Sans', 'Helvetica Neue', helvetica, arial, verdana, sans-serif;
+    background-color: #fff;
+} 
+
+.x-column-header-text {
+	font-weight: bold !important;
+	color: #4a4949 !important;
+}
+
+
+.innertabs>.x-tab-bar-top>.x-tab-bar-strip {
+	background-color: #efefef;
+	height: 4px;
+}
+
+.innertabs>.x-tab-bar .x-tab-active {
+	border-bottom: 4px solid #ccc !important;
+}
